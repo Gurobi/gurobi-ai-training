@@ -1,5 +1,7 @@
 # Gurobi AI Training
 
+**English** | [한국어](ko/README.md) | [简体中文](zh-Hans/README.md) | [繁體中文](zh-Hant/README.md)
+
 Hands-on training material for **Gurobi Intelligence Hub**
 ([intelligence.gurobi.com](https://intelligence.gurobi.com)) — Gurobi's AI agents for building and
 diagnosing optimization models. You describe a business problem in plain language and let
